@@ -16,11 +16,11 @@ UnisocksController: [`0x05931D644063954f35AFa3dBefA4725b0ad79F85`](https://ether
 
 #### Requires [Python 3](https://www.python.org/download/releases/3.0/)
 
-1) Clone Uniswap
+1) Clone SQP-TP4YB
 
 ```bash
-git clone https://github.com/Uniswap/unisocks-erc721
-cd unisocks-erc721
+git clone https://github.com/yodawinks/SquattyPottyTP4YerBung-erc721
+cd SquattyPottyTP4YerBung-erc721-erc721
 ```
 
 2) Setup environment
