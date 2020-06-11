@@ -6,11 +6,11 @@ JSON: [`QmNZEeAN1zk6hLoHHREVkZ7PoPYaoH7n6LR6w9QAcEc29h`](https://cloudflare-ipfs
 
 ## Addresses
 
-SOCKS: [`0x23B608675a2B2fB1890d3ABBd85c5775c51691d5`](https://etherscan.io/address/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5)
+TP: [`0x23B608675a2B2fB1890d3ABBd85c5775c51691d5`](https://etherscan.io/address/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5)
 
-Unisocks: [`0x65770b5283117639760beA3F867b69b3697a91dd`](https://etherscan.io/address/0x65770b5283117639760beA3F867b69b3697a91dd)
+SquattyPottyTP4YerBung-erc721-Unisocks: [`0x65770b5283117639760beA3F867b69b3697a91dd`](https://etherscan.io/address/0x65770b5283117639760beA3F867b69b3697a91dd)
 
-UnisocksController: [`0x05931D644063954f35AFa3dBefA4725b0ad79F85`](https://etherscan.io/address/0x05931D644063954f35AFa3dBefA4725b0ad79F85)
+SquattyPottyTP4YerBung-erc721-UnisocksController: [`0x05931D644063954f35AFa3dBefA4725b0ad79F85`](https://etherscan.io/address/0x05931D644063954f35AFa3dBefA4725b0ad79F85)
 
 ## Installation:
 
